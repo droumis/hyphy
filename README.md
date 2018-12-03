@@ -24,7 +24,7 @@ You will need the following core libraries
 `conda install numpy pandas h5py Pillow matplotlib scipy toolz pytables snakeviz dask distributed`
 
 
-### download data.
+## Download data
 
 From the repo directory, open a jupyter notebook  
 `jupyter lab` or `juypyter notebook`  
