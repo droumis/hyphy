@@ -1,6 +1,7 @@
 # hyphy
 
-Hyphy is an on-disk dataset format specification and basic IO tools for python
+Hyphy is an on-disk dataset format specification and basic IO tools for python.
+It is meant to be an extension for **pyphy** (in development)
 
 ## Install
 
