@@ -2,7 +2,7 @@
 
 Hyphy is an on-disk dataset format specification and basic IO tools for python
 
-## Prepare
+## Install
 
 You should clone this repository  
 `git clone https://github.com/droumis/hyphy.git`
@@ -25,8 +25,7 @@ You will need the following core libraries
 
 
 ## Download data
+see the download data demo notebook:
 
-From the repo directory, open a jupyter notebook  
-`jupyter lab` or `juypyter notebook`  
-in the notebooks directory, open then follow directions in **download_data.ipynb**
+hyphy/code/**download_data.ipynb**
 
